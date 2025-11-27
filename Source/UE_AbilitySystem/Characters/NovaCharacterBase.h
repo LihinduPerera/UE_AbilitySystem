@@ -6,6 +6,7 @@
 #include "GameFramework/Character.h"
 #include "AbilitySystemInterface.h"
 #include "AbilitySystemComponent.h"
+#include "BasicAttributeSet.h"
 #include "NovaCharacterBase.generated.h"
 
 UCLASS()

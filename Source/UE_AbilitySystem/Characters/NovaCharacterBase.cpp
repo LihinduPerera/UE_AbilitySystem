@@ -4,6 +4,7 @@
 #include "NovaCharacterBase.h"
 
 #include "Components/CapsuleComponent.h"
+#include "BasicAttributeSet.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 // Sets default values
